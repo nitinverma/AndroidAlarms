@@ -1,0 +1,4 @@
+rootProject.name = 'alarm'
+
+include ':libs:alarm-lib', ':apps:alarm-app'
+
